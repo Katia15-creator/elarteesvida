@@ -1,0 +1,232 @@
+.cont{
+			height:500px;
+			width:99%;
+			border-color: black;
+			border-style: solid;
+			background-color: black;
+			margin: auto;
+			background-image: ;
+		}
+	.enca{
+			width: 99%;
+			height: 25%;
+			border-color: black;
+			border-style: solid;
+			margin: 5px;
+			right: 5px;
+			float: right;
+
+
+		}
+		.enca2{
+			width: 76%;
+			height: 25%;
+			border-color: black;
+			border-style: solid;
+			margin: 5px;
+			right: 5px;
+			float: right;
+		}
+    }
+		
+		
+		.logo{
+			width: 12%;
+			height: 12%;
+			float: left;
+			margin-top: 15px;
+			background-color: orange;
+		}
+		.menu{
+			width: 100%;
+			height: 5%;
+			border-color: black;
+			border-style: solid;
+			left: 30%;
+			top: 0px;
+			position: sticky;
+			background-color:  orange;
+
+        }
+		
+.contenido{
+			width: 100%;
+			height: 1100px;
+			border-color: black;
+			border-style: solid;
+			left: 15px;
+			float: right;
+			margin-top: 5px;
+
+			background-color: orange;
+			
+	   }
+		.caja1{
+			width: 48%;
+			height: 26%;
+			
+			left: 5px;
+			float: left;
+			margin-top: 5px;
+			background-color: orange;
+		  }
+		.caja2{
+			width: 80%;
+			height: 24%;
+			float: right;
+			
+			right: 40px;
+			margin-top: 55px;
+			background-color: orange;
+		}
+		.caja3{
+			width: 86%;
+			height: 10%;
+			position: relative;
+			top: -630px;
+			left: 600px;
+			float: right;
+			bottom: 150px;
+			background-color: orange;
+		}
+        .caja4{
+        	width: 86%;
+			height: 15%;
+			position: relative;
+			top: -300px;
+			left: 600px;
+			float: right;
+			bottom: 150px;
+			background-color: orange;
+        }
+        .caja5{
+        	width: 89%;
+			height: 38%;
+			margin: 20px;
+			left: 5px;
+			float: left;
+			margin-top: 95px;
+			background-color: orange;
+        }
+		.pie{
+			width: 100%;
+			height: 32%;
+			border-color: black;
+			border-style: solid;
+			position: absolute;
+			top: 1620px;
+			margin-right:  10px;
+			background-color: black;
+		}
+		
+		
+
+#primary_nav_wrap
+{
+	margin-top:0px;
+}
+
+#primary_nav_wrap ul
+{
+	list-style:none;
+	position:relative;
+	float:left;
+	margin:0;
+	padding:0;
+}
+
+#primary_nav_wrap ul a
+{
+	display:block;
+	color:black;
+	text-decoration:none;
+	font-weight: 700;
+	font-size:15px;
+	line-height: 50px;
+	padding:0 100px;
+	font-family: impact;
+}
+
+#primary_nav_wrap ul li
+{
+	position:relative;
+	float:left;
+	margin:0;
+	padding:0
+}
+
+#primary_nav_wrap ul li.current-menu-item
+{
+	background:#ddd
+}
+
+#primary_nav_wrap ul li:hover
+{
+	background:#f6f6f6
+}
+
+#primary_nav_wrap ul ul
+{
+	display:none;
+	position:absolute;
+	top:100%;
+	left:0;
+	background:#fff;
+	padding:0
+}
+
+#primary_nav_wrap ul ul li
+{
+	float:none;
+	width:253px;
+}
+
+#primary_nav_wrap ul ul a
+{
+	line-height:120%;
+	padding:10px 80px
+}
+
+#primary_nav_wrap ul ul ul
+{
+	top:0;
+	left:100%
+}
+
+#primary_nav_wrap ul li:hover > ul
+{
+	display:block
+}
+	
+
+	.lo{
+	width: 100%;
+	height:100%;
+	}
+	.img2{
+	width: 12%;
+	height: 65%;
+	float: right;
+	margin-top: 15px;
+	}
+h1{
+	text-align: center;
+	font-family: funsized;
+	font-size: 60px;
+	color: white;
+}
+h2{
+	text-align: center;
+	font font-family: hansen;
+	font-size: 35px
+	color: white;
+}
+
+	p{
+		text-align: center;
+		font-family: acmefront;
+		font-size: 20px;
+		margin: 30px;
+		animation: unset;
+	}
+	
